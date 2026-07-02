@@ -42,6 +42,14 @@
 
 **关键词**：React / Vite / travel / expense tracker / product prototype
 
+## Project Timeline
+
+| Time | Project | What changed |
+| --- | --- | --- |
+| 2025-12 | [Travel Ledger](https://github.com/jodieg536-byte/travel-ledger) | First public prototype for travel planning, expense tracking, and memory journaling |
+| 2026-07 | [Obsidian Action Journal](https://github.com/jodieg536-byte/obsidian-action-journal) | Published a local-first journal and action tracking system |
+| 2026-07 | [GitHub Portfolio](https://github.com/jodieg536-byte/jodieg536-byte) | Started using GitHub as a public project portfolio |
+
 ## Current Focus
 
 我正在把个人生活里的高频场景，做成一个个能被实际使用的小作品：
@@ -77,4 +85,3 @@
 ---
 
 I like tools that make ordinary life easier to examine, organize, and continue.
-
